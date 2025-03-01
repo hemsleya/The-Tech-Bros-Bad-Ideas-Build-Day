@@ -1,12 +1,12 @@
-# React + Vite
+# Soundtrack your day
+## Original Idea:
+A product that plays inappropriate music during meetings.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Our build:
+Simple app that integrates with your Google calendar and plays annoying music if you are currently scheduled to be in a meeting.
+4 hours to bring the idea to life in a group of 3 with varying levels of coding experience before presenting it to the rest of the teams.
+Won "Best Build" for 28/02/25 York Tech Bros event. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack:
+React with vita
+Google Calendar API
