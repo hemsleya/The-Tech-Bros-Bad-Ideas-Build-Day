@@ -10,5 +10,5 @@ Won "Best Build" for 28/02/25 York Tech Bros event.
 ![image](https://github.com/user-attachments/assets/205ee446-1f39-4ffd-8ba1-8d9559076f8f)
 
 ## Tech Stack:
-React with vita
+React with vita, 
 Google Calendar API
